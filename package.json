@@ -1,0 +1,14 @@
+{
+  "name": "pc-part-scraper",
+  "version": "1.0.0",
+  "description": "A utlity that scrapes webpages and reddit to provide deal alerts and general part information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colleen Toth",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.10.2"
+  }
+}
